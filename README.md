@@ -266,4 +266,4 @@ This repository serves as the official landing page for Football Club Simulator 
 **Get the most recent version of Football Club Simulator - FCS 18 today!**
 
 ---
-**Last updated:** 2026-09-26 17:30:54 UTC
+**Last updated:** 2026-09-26 20:25:45 UTC
